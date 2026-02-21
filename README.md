@@ -1,8 +1,8 @@
 # 🧪 Testes QA - Projeto de Estudos
 
-Este repositório contém casos de teste manuais desenvolvidos para praticar conceitos de QA (Quality Assurance).
+Este repositório contém casos de Teste manuais, Testes de API desenvolvidos para praticar conceitos de QA (Quality Assurance).
 
-## 📌 Objetivo
+## Case Tests
 
 Simular testes funcionais na tela de cadastro de um sistema web, validando:
 
@@ -12,7 +12,7 @@ Simular testes funcionais na tela de cadastro de um sistema web, validando:
 - Tratamento de campos obrigatórios
 - Redirecionamentos
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 ```
 test-cases/
 └── casos-de-teste-cadastro.md
@@ -24,7 +24,15 @@ test-cases/
 - PowerShell
 - VS Code
 
-## 🚀 Status do Projeto
+
+##  Testes de API
+
+Collection criada no Postman para testes da API.
+
+Arquivo:
+- ServeRest - Testes de API.postman_collection.json
+
+##  Status do Projeto
 
 Projeto em evolução para fins de estudo e construção de portfólio como QA Júnior.
 
