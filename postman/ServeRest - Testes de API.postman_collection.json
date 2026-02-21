@@ -1,0 +1,108 @@
+{
+  "info": {
+    "_postman_id": "0d32c647-2680-412d-84ad-3ac770f5eabe",
+    "name": "ServeRest - Testes de API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "51996251",
+    "_collection_link": "https://go.postman.co/collection/51996251-0d32c647-2680-412d-84ad-3ac770f5eabe?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Criar cadastro de usuario",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"nome\": \"APITESTES\",\r\n  \"email\": \"testesAPI@qa.com\",\r\n  \"password\": \"testes\",\r\n  \"administrador\": \"true\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{BASE_URL}}/usuarios",
+          "host": [
+            "{{BASE_URL}}"
+          ],
+          "path": [
+            "usuarios"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Listar usuario especifico",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{BASE_URL}}/usuarios/milnCQIIXUpOHVr8",
+          "host": [
+            "{{BASE_URL}}"
+          ],
+          "path": [
+            "usuarios",
+            "milnCQIIXUpOHVr8"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Atualizar informaçoes do usuario",
+      "request": {
+        "method": "PUT",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"nome\": \"testes1234\",\r\n    \"email\": \"testesatualizado@qa.com\",\r\n    \"password\": \"testes123\",\r\n    \"administrador\": \"true\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{BASE_URL}}/usuarios/UpqJ8q7O9cmgCpwH",
+          "host": [
+            "{{BASE_URL}}"
+          ],
+          "path": [
+            "usuarios",
+            "UpqJ8q7O9cmgCpwH"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Apagar usuario",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{BASE_URL}}/UpqJ8q7O9cmgCpwH",
+          "host": [
+            "{{BASE_URL}}"
+          ],
+          "path": [
+            "UpqJ8q7O9cmgCpwH"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
