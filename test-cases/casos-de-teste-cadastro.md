@@ -23,7 +23,7 @@ Mensagem informando que o cadastro foi realizado com sucesso e redirecionamento 
 **Resultado Obtido:**
 Mensagem informando que o cadastro foi realizado com sucesso e redirecionamento correto.
 
-**Status:** ✅ Aprovado
+**Status:**  Aprovado
 
 ---
 
@@ -48,7 +48,7 @@ Mensagem informando que o cadastro não foi realizado pois o e-mail já está ca
 **Resultado Obtido:**
 Mensagem informando que o cadastro não foi realizado e senha está em formato inválido.
 
-**Status:** ✅ Aprovado
+**Status:**  Aprovado
 
 ---
 
@@ -73,7 +73,7 @@ Mensagem informando que o cadastro não foi realizado pois o e-mail já está ca
 **Resultado Obtido:**
 Mensagem informando que o cadastro foi realizado com sucesso.
 
-**Status:** ❌ Reprovado
+**Status:**  Reprovado
 
 ---
 
@@ -98,7 +98,7 @@ Mensagem informando que a senha está em formato inválido e precisa ser alterad
 **Resultado Obtido:**
 Mensagem informando que a senha está em formato inválido.
 
-**Status:** ✅ Aprovado
+**Status:**  Aprovado
 
 ---
 
@@ -123,7 +123,7 @@ Mensagem informando que o e-mail está inválido e precisa ser alterado.
 **Resultado Obtido:**
 Cadastro realizado com sucesso.
 
-**Status:** ❌ Reprovado
+**Status:**  Reprovado
 
 ---
 
@@ -150,7 +150,7 @@ Usuário cadastrado com sucesso e redirecionado para a página principal.
 **Resultado Obtido:**
 Cadastro realizado com sucesso e redirecionado para página de compras.
 
-**Status:** ❌ Reprovado
+**Status:**  Reprovado
 
 ---
 
@@ -168,7 +168,7 @@ Usuário cadastrado com sucesso e redirecionado para página principal.
 **Resultado Obtido:**
 Cadastro realizado com sucesso e redirecionamento correto.
 
-**Status:** ✅ Aprovado
+**Status:**  Aprovado
 
 ---
 
@@ -186,7 +186,7 @@ Usuário cadastrado com sucesso e redirecionado para página principal.
 **Resultado Obtido:**
 Cadastro realizado com sucesso e redirecionamento correto.
 
-**Status:** ✅ Aprovado
+**Status:**  Aprovado
 
 ---
 
@@ -209,7 +209,7 @@ Usuário redirecionado para página principal.
 **Resultado Obtido:**
 Redirecionamento correto.
 
-**Status:** ✅ Aprovado
+**Status:**  Aprovado
 
 ---
 
@@ -228,4 +228,4 @@ Mensagem de erro informando que os campos não podem estar em branco.
 **Resultado Obtido:**
 Mensagem exibida corretamente.
 
-**Status:** ✅ Aprovado
+**Status:**  Aprovado
