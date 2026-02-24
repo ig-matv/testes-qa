@@ -18,7 +18,7 @@ test-cases/
 └── casos-de-teste-cadastro.md
 ```
 
-## 🛠 Ferramentas Utilizadas
+##  Ferramentas Utilizadas
 
 - Git
 - PowerShell
