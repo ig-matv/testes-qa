@@ -1,8 +1,8 @@
-# 🧪 Estratégia de Teste – Cadastro
+#  Estratégia de Teste – Cadastro
 
 ---
 
-## 📌 Escopo
+##  Escopo
 
 - Cadastro com e-mail válido e senha válida  
 - E-mail já cadastrado e senha inválida  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧪 Tipos de Testes Aplicados
+##  Tipos de Testes Aplicados
 
 - Teste Funcional  
 - Teste Exploratório  
@@ -23,13 +23,13 @@
 
 ---
 
-## 📊 Priorização
+## Priorização
 
 O fluxo principal de cadastro, a validação de campos obrigatórios e o cadastro com dados válidos devem ser executados antes dos testes secundários.
 
 ---
 
-# 📈 Análise de Risco – Funcionalidade de Cadastro
+#  Análise de Risco – Funcionalidade de Cadastro
 
 | Funcionalidade | Probabilidade | Impacto | Nível de Risco | Prioridade |
 |---------------|--------------|----------|----------------|------------|
