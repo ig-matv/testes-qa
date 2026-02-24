@@ -1,4 +1,4 @@
-# 🧪 Testes QA - Projeto de Estudos
+#  Testes QA - Projeto de Estudos
 
 Este repositório contém casos de Teste manuais, Testes de API desenvolvidos para praticar conceitos de QA (Quality Assurance).
 
@@ -32,13 +32,13 @@ Collection criada no Postman para testes da API.
 Arquivo:
 - ServeRest - Testes de API.postman_collection.json
 
-## 📌 Estratégia de Teste e Análise de Risco – Funcionalidade de Cadastro
+##  Estratégia de Teste e Análise de Risco – Funcionalidade de Cadastro
 
 Contém a documentação da estratégia de teste e análise de risco aplicada à funcionalidade de cadastro de usuários.
 
 O objetivo foi identificar cenários críticos, priorizar testes com base em impacto e probabilidade, e organizar a execução dos testes de forma estratégica.
 
-### 🔍 O que foi definido:
+###  O que foi definido:
 
 - Escopo da funcionalidade de cadastro
 - Tipos de testes aplicados (funcional, exploratório e validação de erros)
@@ -50,7 +50,3 @@ A análise prioriza o fluxo principal de cadastro e a validação de campos obri
 ##  Status do Projeto
 
 Projeto em evolução para fins de estudo e construção de portfólio como QA Júnior.
-
----
-
-✍ Desenvolvido para prática e aprimoramento em Quality Assurance.
